@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+body{
+	margin-top: 75px;
+}
+
+h1{
+	color: #fff;
+}
+
+p{
+	margin: 10px;
+}
+
+input{
+	margin: 10px;
+	padding: 15px;
+	width: 250px;
+	border: 2px solid darkblue;
+}
+
+button{
+	padding: 7px;
+	border: 0px;
+	border-radius: 30px;
+	background-color: #674747;
+	width: 200px;
+}
+
+.header{
+	margin: 20px;
+	padding: 7px;
+	color: #fff;
+	background-color: #674747;
+}
+
+
+.box{
+	margin: 20px;
+	background-color: #038c9e;
+	padding: 10px;
+}
+
+.box p{
+	color: #fff;
+}
+
+.results{
+	margin: 20px;
+	padding: 7px;
+	color: #fff;
+	background-color: #674747;
+}
+
+.start-game{
+	margin: 20px;
+	padding: 7px;
+	color: #fff;
+	background-color: #674747;
+	cursor: pointer;
+}
